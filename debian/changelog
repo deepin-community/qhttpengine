@@ -1,5 +1,12 @@
-template-repository (1.0-1) unstable; urgency=medium
+qhttpengine (0.1.0+dfsg1-1.1) unstable; urgency=medium
 
-  * Initial release
+  * Non maintainer upload by the Reproducible Builds team.
+  * No source change upload to rebuild on buildd with .buildinfo files.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Holger Levsen <holger@debian.org>  Mon, 04 Jan 2021 17:05:04 +0100
+
+qhttpengine (0.1.0+dfsg1-1) unstable; urgency=low
+
+  * Initial release (Closes: #811224)
+
+ -- Nathan Osman <nathan@quickmediasolutions.com>  Mon, 23 May 2016 19:55:49 -0700
